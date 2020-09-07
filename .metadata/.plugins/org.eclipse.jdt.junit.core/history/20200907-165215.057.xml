@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="BSearchTest" project="BSearchProject" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="BSearchTest" time="0.024" uniqueid="[engine:junit-jupiter]/[class:BSearchTest]">
+    <testcase name="testBSearch" classname="BSearchTest" time="0.024" displayname="testBSearch()" uniqueid="[engine:junit-jupiter]/[class:BSearchTest]/[method:testBSearch()]"/>
+  </testsuite>
+</testrun>
