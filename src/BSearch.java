@@ -4,7 +4,7 @@ import java.util.List;
 public class BSearch {
 	
 	public static List<Integer> data = new ArrayList<Integer>();
-	
+	//¶þ·Ö·¨
 	public static int bSearch(int searchValue) {
 		int low = 0;
 		
@@ -23,6 +23,8 @@ public class BSearch {
 				high = mid - 1;
 			}
 		}
+		
+		
 		
 		return -1;
 	}
